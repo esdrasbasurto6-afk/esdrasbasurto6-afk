@@ -48,6 +48,6 @@ Actualmente me preparo para realizar mi residencia profesional.
 
 ## Contacto
 
-- 📧 Correo: `<tu_correo>`
-- 💼 LinkedIn: [<tu_usuario>](https://www.linkedin.com/in/<tu_usuario>/)
+- 📧 Correo: `projectezbs@gmail.com`
+
 - 🐙 GitHub: [@esdrasbasurto6-afk](https://github.com/esdrasbasurto6-afk)
