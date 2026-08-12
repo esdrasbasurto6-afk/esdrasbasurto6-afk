@@ -12,7 +12,7 @@ Actualmente me preparo para realizar mi residencia profesional.
 - 🌱 En aprendizaje continuo de arquitectura de software y buenas prácticas de desarrollo.
 - 📍 Colima, México.
 
-## Proyectos destacados
+## Proyectos Subidos
 
 - 🤖 **[TicketFix AI](https://github.com/esdrasbasurto6-afk/ticketfix-ai):** plataforma de soporte técnico con IA que clasifica tickets por categoría y prioridad, guía diagnósticos paso a paso y escala incidencias a soporte humano.
 
