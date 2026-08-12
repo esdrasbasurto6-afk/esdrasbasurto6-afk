@@ -21,6 +21,9 @@ Actualmente me preparo para realizar mi residencia profesional.
 - 🛒 **[Ferretería ML](https://github.com/esdrasbasurto6-afk/Ferreteria_ml):** aplicación de comercio electrónico con recomendaciones de productos, análisis de inventario, segmentación de clientes y predicción de ventas.
 
 - 📊 **[SQL Pract](https://github.com/esdrasbasurto6-afk/SQL_Pract):** Data Warehouse de ventas en MySQL con datos simulados, reportes analíticos y modelos de Machine Learning para segmentación y predicción.
+
+- 👕 **[Focopus Prints](https://github.com/esdrasbasurto6-afk/Focopus):** plataforma de comercio electrónico de prendas personalizadas con catálogo por categorías, carrito de compras, flujo de pago y panel administrativo para la gestión de inventario y pedidos.
+
 ## Tecnologías y herramientas
 
 ### Lenguajes
