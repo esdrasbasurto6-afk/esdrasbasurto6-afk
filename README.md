@@ -2,7 +2,7 @@
 
 Estudiante de **Ingeniería en Sistemas Computacionales** en el **Instituto Tecnológico de Colima (TecNM)**. Me interesa el desarrollo Full Stack, las bases de datos, la inteligencia artificial aplicada y la creación de soluciones web con impacto práctico.
 
-Actualmente me preparo para realizar mi residencia profesional.
+Actualmente estoy realizando mi residencia profesional.
 
 ## Sobre mí
 
